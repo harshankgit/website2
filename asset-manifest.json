@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/website2/static/css/main.3606f1e5.css",
+    "main.js": "/website2/static/js/main.897368d5.js",
+    "static/media/hk.webp": "/website2/static/media/hk.da721ffa44f7eadc7df8.webp",
+    "index.html": "/website2/index.html",
+    "main.3606f1e5.css.map": "/website2/static/css/main.3606f1e5.css.map",
+    "main.897368d5.js.map": "/website2/static/js/main.897368d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3606f1e5.css",
+    "static/js/main.897368d5.js"
+  ]
+}
